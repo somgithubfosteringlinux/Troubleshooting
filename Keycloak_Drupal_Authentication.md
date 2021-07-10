@@ -2,10 +2,13 @@
 ## Troubleshooting steps for OIDC keycloak authentication in drupal:
 
 * Download the below OIDC module for drupal from below link: <br/>
- -> https://ftp.drupal.org/files/projects/keycloak-8.x-1.5.zip
+  https://ftp.drupal.org/files/projects/keycloak-8.x-1.5.zip
 
-Step2:
-
+* Login to Drupal main console then select Extend -> modules -> Install New module.
+* Upload and Install the downloaded modules.
+  
+    <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/Extend_Install-new-module.png"></p>
+  
 
 ### Reference links:
 1. https://www.drupal.org/project/keycloak
