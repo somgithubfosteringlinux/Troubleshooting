@@ -8,7 +8,20 @@
 * Upload and Install the downloaded modules.
   
     <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/Extend_Install-new-module.png"></p>
+
+* The downloaded modules will appear as below in installed modules:
   
+     <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/Installed_modules.png"></p>
+     
+* Now, we have to add the OpenID connect button:
+* Click on manage -> block layout
+ 
+     <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/Structure_blocl_layout.png"></p>
+     
+* Select sidebar first in block layout -> select OpenID connect (at sidebar first) as shown below:
+     
+     <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/sidebar_first_OIDC_button.png"></p>
+
 
 ### Reference links:
 1. https://www.drupal.org/project/keycloak
