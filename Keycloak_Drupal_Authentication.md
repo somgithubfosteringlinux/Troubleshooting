@@ -49,10 +49,16 @@
   
      <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/Configuration_Account-settings.png"></p>
      
-     -> Opt for visitors option in account settings:<br/>
+     -> <b>Opt for visitors option in account settings:<b><br/>
      
-     <p align="center"><img src=" https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/Accountsetting_visitors.png"></p>
+     <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/Accountsetting_visitors.png"></p>
 
+------
+  
+ Finally, while cicking on OpenID connect it will redirect to keycloak Authentication server:
+   
+    <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/keycloak_Drupal_Auth.gif"></p>
+  
 ------
 
 ### Reference links:
