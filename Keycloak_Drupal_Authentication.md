@@ -1,32 +1,32 @@
 
 ## Troubleshooting steps for OIDC keycloak authentication in drupal:
 
-* Download the below OIDC module for drupal from below link: <br/>
+* <b>Download the below OIDC module for drupal from below link:</b><br/>
   https://ftp.drupal.org/files/projects/keycloak-8.x-1.5.zip
 
 ------
 
-* Login to Drupal main console then select Extend -> modules -> Install New module.
+* <b>Login to Drupal main console then select Extend -> modules -> Install New module.</b>
 * Upload and Install the downloaded modules.
   
     <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/Extend_Install-new-module.png"></p>
     
 ------
 
-* The downloaded modules will appear as below in installed modules:
+* <b>The downloaded modules will appear as below in installed modules:</b>
   
      <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/Installed_modules.png"></p>
      
  ------
      
-* Now, we have to add the OpenID connect button:
+* <b>Now, we have to add the OpenID connect button:</b>
 * Click on manage -> block layout
  
      <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/Structure_blocl_layout.png"></p>
      
 ------
      
-* Select sidebar first in block layout -> select OpenID connect (at sidebar first) as shown below:
+* <b>Select sidebar first in block layout -> select OpenID connect (at sidebar first) as shown below:</br>
      
      <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/sidebar_first_OIDC_button.png"></p><br/>
      
@@ -35,7 +35,7 @@
      <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/oidc_button_homepage.png"></p>
      
 ------
-* Click on manage from drupal navigation bar, and select configuration -> webservices -> OpenId connect:
+* <b>Click on manage from drupal navigation bar, and select configuration -> webservices -> OpenId connect:</b>
   
      <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/Configuration_OpenID%20connect.png"></p>
   
@@ -44,12 +44,12 @@
    <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/OpenID%20connect.png"></p>
 -------
 
-* Now select the Configuration -> Account Settings from Drupal navigation bar:
+  * <b>Now select the Configuration -> Account Settings from Drupal navigation bar:</b>
   
   
      <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/Configuration_Account-settings.png"></p>
      
-     -> <b>Opt for visitors option in account settings:<b><br/>
+     -> <b>Opt for visitors option in account settings:</b><br/>
      
      <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/Accountsetting_visitors.png"></p>
 
