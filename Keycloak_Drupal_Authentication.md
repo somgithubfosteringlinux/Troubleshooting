@@ -35,6 +35,14 @@
      <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/oidc_button_homepage.png"></p>
      
 ------
+* Click on manage from drupal navigation bar, and select configuration -> webservices -> OpenId connect:
+  
+     <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/Configuration_OpenID%20connect.png"></p>
+  
+     -> Opt for below in changes to OpenID connect:<br/>
+  
+   <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/OpenID%20connect.png"></p>
+-------
 
 * Now select the Configuration -> Account Settings from Drupal navigation bar:
   
