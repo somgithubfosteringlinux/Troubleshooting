@@ -57,7 +57,7 @@
   
  Finally, while cicking on OpenID connect it will redirect to keycloak Authentication server:
    
-    <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/keycloak_Drupal_Auth.gif"></p>
+   <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/keycloak_Drupal_Auth.gif"></p>
   
 ------
 
