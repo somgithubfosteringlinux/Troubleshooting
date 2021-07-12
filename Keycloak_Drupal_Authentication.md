@@ -28,7 +28,22 @@
      
 * Select sidebar first in block layout -> select OpenID connect (at sidebar first) as shown below:
      
-     <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/sidebar_first_OIDC_button.png"></p>
+     <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/sidebar_first_OIDC_button.png"></p><br/>
+     
+     <b>Output on the drupal mainpage:</b><br/>
+    
+     <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/oidc_button_homepage.png"></p>
+     
+------
+
+* Now select the Configuration -> Account Settings from Drupal navigation bar:
+  
+  
+     <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/Configuration_Account-settings.png"></p>
+     
+     -> Opt for visitors option in account settings:<br/>
+     
+     <p align="center"><img src=" https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/Accountsetting_visitors.png"></p>
 
 ------
 
