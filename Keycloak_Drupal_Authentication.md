@@ -39,7 +39,7 @@
   
      <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/Configuration_OpenID%20connect.png"></p>
   
-     -> Opt for below in changes to OpenID connect:<br/>
+     -> <b>Opt for below in changes to OpenID connect:<b><br/>
   
    <p align="center"><img src="https://raw.githubusercontent.com/somgithubfosteringlinux/images/main/Troubleshoot_keycloak_Drupal_OIDC_Auth/OpenID%20connect.png"></p>
 -------
